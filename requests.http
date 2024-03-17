@@ -1,0 +1,6 @@
+@apitest_HostAddress = http://localhost:5286
+
+GET {{apitest_HostAddress}}/pizza/
+Accept: application/json
+
+###
