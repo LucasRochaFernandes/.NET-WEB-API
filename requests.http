@@ -1,6 +1,21 @@
 @apitest_HostAddress = http://localhost:5286
 
 GET {{apitest_HostAddress}}/pizza/
-Accept: application/json
+Content-Type: application/json
 
 ###
+
+# @name getById
+GET {{apitest_HostAddress}}/pizza/2
+Content-Type: application/json
+
+###
+
+# @name Add
+POST {{apitest_HostAddress}}/pizza
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}

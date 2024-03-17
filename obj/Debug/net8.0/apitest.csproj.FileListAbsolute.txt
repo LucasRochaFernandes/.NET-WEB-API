@@ -30,3 +30,4 @@ C:\Users\lucas\OneDrive\Documentos\c#\vscode\apitest\obj\Debug\net8.0\refint\api
 C:\Users\lucas\OneDrive\Documentos\c#\vscode\apitest\obj\Debug\net8.0\apitest.pdb
 C:\Users\lucas\OneDrive\Documentos\c#\vscode\apitest\obj\Debug\net8.0\apitest.genruntimeconfig.cache
 C:\Users\lucas\OneDrive\Documentos\c#\vscode\apitest\obj\Debug\net8.0\ref\apitest.dll
+C:\Users\lucas\OneDrive\Documentos\c#\vscode\apitest\obj\Debug\net8.0\apitest.sourcelink.json
