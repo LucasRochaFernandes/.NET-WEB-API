@@ -1,0 +1,23 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Dependências NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Cache do Rider
+.idea/
+
+# Arquivos temporários do Visual Studio
+.vs/
+
+# Logs e arquivos de saída
+*.log
+*.dll
+*.exe
+
+# Outros arquivos e diretórios
+[Tt]emp/
+[Rr]elease/
